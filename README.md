@@ -122,6 +122,6 @@ This project is proprietary and intended for internal or client-specific use. Re
 
 ## Contact / Credits
 
-Project designed, implemented, and documented by **Nitin Yadav**.
+Project designed, implemented, and documented by **Relu Consultancy**.
 
 For support, maintenance, or future enhancements, please contact the project maintainer.
